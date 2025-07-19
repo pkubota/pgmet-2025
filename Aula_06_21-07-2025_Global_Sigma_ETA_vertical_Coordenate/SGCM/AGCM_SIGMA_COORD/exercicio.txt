@@ -1,0 +1,4 @@
+1)Exercicio
+  Rode o modelo sem forçante e compara o resultado rodando com forçante.
+  R:
+

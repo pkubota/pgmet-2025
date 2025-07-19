@@ -1,0 +1,8 @@
+ &RESOLUTION
+ iDimLon=144,
+ jDimLat=72,
+ kDimLev=11,
+ IX=48000,       !480*100
+ IO=480,
+ DeltaT=0.180E3,
+/
